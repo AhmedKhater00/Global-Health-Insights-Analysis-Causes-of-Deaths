@@ -37,25 +37,6 @@ The dataset titled `cause_of_deaths.csv` includes:
 - There are strong correlations between certain causes of death, such as between Diabetes Mellitus and Cardiovascular Diseases.
 - Countries show different trends, with some regions experiencing spikes in certain diseases during specific periods.
 
-## Visualization (Some of the plots)
-1. **Bar Plot of Top 15 Causes of Death Globally**:
-    - ![Top 15 Causes of Death Globally](https://drive.google.com/file/d/1gRzzprOTRriKnt7mjUkUALt3ZRFJjrHh/view?usp=sharing)
-
-2. **Trend Analysis of Cardiovascular Diseases**:
-    - ![Cardiovascular Diseases Trend](https://drive.google.com/file/d/1MOWPoJzyriHcqAljk5vumXX0u3DiJxOZ/view?usp=sharing)
-
-3. **Heatmap of Cause of Death Correlations**:
-    - ![Cause of Death Correlations](https://drive.google.com/file/d/1WU5J8l_5MiWjkKlXO6dqtSySr3slJssA/view?usp=sharing)
-
-4. **Regional Comparison**:
-    - ![Comparison of Cardiovascular Diseases and HIV/AIDS in Afghanistan and Zimbabwe](https://drive.google.com/file/d/1qIZKjVYHWSlb3PQtNHDab_NaLJvz7GmK/view?usp=sharing)
-
-5. **Interactive Choropleth Map**:
-    - [View Choropleth Map](https://drive.google.com/file/d/1v8Q0Tq2Ws0QrAaGmkKirPJvfCvpAiZFE/view?usp=sharing)
-
-6. **Marker Cluster Map for Cardiovascular Deaths**:
-    - [View Marker Cluster Map](https://drive.google.com/file/d/12pZvdF8g5YejYHwOaFoGtRKTBxu6HIQX/view?usp=sharing)
-
 ## Data Source
 The data for this analysis is sourced from a global health dataset on causes of death. The dataset covers a wide range of causes of death from multiple countries over several years.
 

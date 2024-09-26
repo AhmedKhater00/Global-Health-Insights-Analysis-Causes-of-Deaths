@@ -71,9 +71,21 @@ The data for this analysis is sourced from a global health dataset on causes of 
 ## Conclusion
 The analysis provided key insights into global health trends, particularly emphasizing the rise of cardiovascular diseases across the globe. The visualizations and modeling techniques used demonstrate significant patterns that can inform public health policies. Advanced techniques like Polynomial Regression and Ridge modeling offer more refined predictions for future trends.
 
-## Contact
-For inquiries or collaboration opportunities, please reach out to me:
+## Contact  Our Team
+For collaboration or inquiries, feel free to reach out.
 
-**Name**: Ahmed Khater  
-**Email**: [khatermedo664@gmail.com](mailto:khatermedo664@gmail.com)  
-**LinkedIn**: [Ahmed Khater](https://www.linkedin.com/in/ahmed-khater-1bb2a324a)
+- Name: Sara ELdamarany  
+- Email: [saraeldamarany@gmail.com](mailto:khatermedo664@gmail.com)  
+- LinkedIn: [Sara Eldamarany](https://www.linkedin.com/in/saraeldamarany/)
+
+   --- 
+
+- Name: Manar Alaa  
+- Email: [Manaralaa962@gmail.com](mailto:Manaralaa962@gmail.com)  
+- LinkedIn: [Manar Alaa](https://www.linkedin.com/in/manar-alaa-1787211b0/)
+
+   ---
+
+- Name: Ahmed Khater
+- Email: [khatermedo664@gmail.com]
+- LinkedIn: [Ahmed Khater](https://www.linkedin.com/in/ahmed-khater-1bb2a324a)
